@@ -45,6 +45,11 @@ These modules fix that.
 
 ---
 
+## Changes from original repo
+The RMBD Hard Off module is modified to disable multicasting on *wlan0* and *wlan1* through an ip link command.
+
+---
+
 ## Modules Overview
 
 ### 1️⃣ RMBD (Hard OFF)
