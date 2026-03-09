@@ -49,6 +49,9 @@ These modules fix that.
 The RMBD Hard Off module is modified to disable multicasting on *wlan0* and *wlan1* through an ip link command.
 
 ---
+## Tested Configurations
+- Pixel 9, LineageOS 23.2, Magisk v30.7
+---
 
 ## Modules Overview
 
