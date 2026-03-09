@@ -11,6 +11,7 @@ dumpsys wifi disable-multicast
 
 # disable using a more permanent option
 ip link set wlan0 multicast off
+ip link set wlan1 multicast off
 
 # disable Nearby Share
 settings put global nearby_sharing_enabled 0
